@@ -112,6 +112,5 @@ HarmonicOscillatorPINN/
 └── rust_infer/
 ├── src/main.rs            # Rust inference engine
 └── Cargo.toml
-```bash
 
 
