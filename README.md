@@ -100,6 +100,8 @@ This workflow is:
 
 ## 📁 4. Project Structure
 
+
+```bash
 HarmonicOscillatorPINN/
 │
 ├── python/
@@ -110,6 +112,6 @@ HarmonicOscillatorPINN/
 └── rust_infer/
 ├── src/main.rs            # Rust inference engine
 └── Cargo.toml
-
+```bash
 
 
