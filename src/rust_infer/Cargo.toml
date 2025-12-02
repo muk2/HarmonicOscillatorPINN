@@ -1,0 +1,8 @@
+[package]
+name = "rust_infer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tch = "0.22.0" # Use the latest version available on crates.io
+anyhow = "1.0"

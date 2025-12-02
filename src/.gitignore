@@ -1,0 +1,26 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor/IDE files (example for VS Code)
+.vscode/
+
+# Package distribution
+dist/
+build/
+*.egg-info/
+
+
+# Cargo build output
+target/
+
+# Cargo lock file (often ignored for libraries, but included for executables)
+# Cargo.lock
+
+# IDE/editor files (example for VS Code)
+.vscode/
